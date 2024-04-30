@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **darshanpadia5@gmail.com**
 
-- 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)
+- 🤝🏻 Looking to collaborate on **Open Source Projects**
+
+<!-- - 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)0 -->
 
 
 
