@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="darshanpadia5@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="darshanpadia" height="30" width="40" /></a>
+<a href="darshanpadia5@gmail.com" target="blank"><img align="center" src="4202011_email_gmail_mail_logo_social_icon.svg" alt="darshanpadia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darshanpadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshanpadia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23347854" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23347854" height="30" width="40" /></a>
 <a href="https://medium.com/@darshanpadia5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@darshanpadia5" height="30" width="40" /></a>
