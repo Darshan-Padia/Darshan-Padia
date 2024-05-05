@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">Passionate coder, Quick learner and highly motivated to apply skills in building innovative solutions.</h3>
+<h3 align="center">A Passionate coder, Quick learner and a motivated individual eager to learn new things and apply skills in building innovative solutions.</h3> <br/>
 
 - 📝 I write articles on [https://medium.com/@darshanpadia5](https://medium.com/@darshanpadia5)
 
@@ -11,6 +11,23 @@
 
 <!-- - 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)0 -->
 
+<h3>My featured Articles in Dev Genius publication</h3>
+<div>
+  <a href="https://medium.com/dev-genius/ultimate-git-and-github-guide-for-beginners-2024-e263b14325fb" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:120/format:webp/1*Z1ByKz-p8yipswHEOzjJ-g.png" alt="Ultimate Git and Github guide for beginners 2024" />
+  </a>
+  <br/>
+  <a href="https://medium.com/dev-genius/ultimate-git-and-github-guide-for-beginners-2024-e263b14325fb" target="_blank">Ultimate Git and Github guide for beginners 2024</a>
+</div>
+<br/>
+
+<div>
+  <a href="https://medium.com/dev-genius/mastering-the-art-of-debugging-techniques-for-efficient-troubleshooting-629c1b8f237f" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:120/format:webp/1*f2Q10zY0TWcYGeUbTAK7Wg.png" alt="Mastering the Art of Debugging: Techniques for Efficient Troubleshooting" />
+  </a>
+  <br/>
+  <a href="https://medium.com/dev-genius/mastering-the-art-of-debugging-techniques-for-efficient-troubleshooting-629c1b8f237f" target="_blank">Mastering the Art of Debugging: Techniques for Efficient Troubleshooting</a>
+</div>
 
 
 
