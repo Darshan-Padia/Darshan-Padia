@@ -10,7 +10,7 @@
 - 🤝🏻 Looking to collaborate on **Open Source Projects**
 
 <!-- - 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)0 -->
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-padia&theme=chartreuse-dark&show_icons=true&locale=en" alt="darshan-padia" /></p>
 <h3>My featured Articles in Dev Genius publication</h3>
 <div>
   <a href="https://medium.com/dev-genius/ultimate-git-and-github-guide-for-beginners-2024-e263b14325fb" target="_blank">
