@@ -3,11 +3,11 @@
 
 - 📝 I write articles on [https://medium.com/@darshanpadia5](https://medium.com/@darshanpadia5)
 
-- 💬 Ask me about **Git, Algorithms, Web Development**
+- 💬 Ask me about **Git, Web Development**
 
 - 📫 How to reach me **darshanpadia5@gmail.com**
 
-- 🤝🏻 Looking to collaborate on **Open Source Projects**
+- 🤝🏻 Open to collaborate on **Open Source Projects**
 
 <!-- - 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)0 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-padia&theme=chartreuse-dark&show_icons=true&locale=en" alt="darshan-padia" /></p>
