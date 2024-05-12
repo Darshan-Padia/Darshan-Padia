@@ -17,7 +17,15 @@
 Click the below badge for my coding stats <br> <br>
 <a href="https://wakatime.com/@0d5b68ac-b163-4bed-8181-40a8875b1148"><img src="https://wakatime.com/badge/user/0d5b68ac-b163-4bed-8181-40a8875b1148.svg" alt="Total time coded since Dec 14 2021" /></a>
   <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
+```text
+💻 Operating System: 
+Linux                    10 hrs 52 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12/05/2024 07:31:51 UTC
 <!--END_SECTION:waka-->
 <h3>My featured Articles in Dev Genius publication</h3>
 <div>
