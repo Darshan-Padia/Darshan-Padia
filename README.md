@@ -8,6 +8,9 @@
 - 📫 How to reach me **darshanpadia5@gmail.com**
 
 - 🤝🏻 Open to collaborate on **Open Source Projects**
+  <br/>
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- - 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)0 -->
