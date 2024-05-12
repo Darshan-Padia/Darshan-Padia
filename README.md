@@ -8,16 +8,17 @@
 - 📫 How to reach me **darshanpadia5@gmail.com**
 
 - 🤝🏻 Open to collaborate on **Open Source Projects**
-  <br/>
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C174%20hrs%2017%20mins-blue)
 
-
-<!--END_SECTION:waka-->
 
 
 <!-- - 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)0 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-padia&theme=chartreuse-dark&show_icons=true&locale=en" alt="darshan-padia" /></p>
+  <br/>
+Click the below badge for my coding stats <br> <br>
+<a href="https://wakatime.com/@0d5b68ac-b163-4bed-8181-40a8875b1148"><img src="https://wakatime.com/badge/user/0d5b68ac-b163-4bed-8181-40a8875b1148.svg" alt="Total time coded since Dec 14 2021" /></a>
+  <!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <h3>My featured Articles in Dev Genius publication</h3>
 <div>
   <a href="https://medium.com/dev-genius/ultimate-git-and-github-guide-for-beginners-2024-e263b14325fb" target="_blank">
