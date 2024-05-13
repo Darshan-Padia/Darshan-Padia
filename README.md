@@ -8,8 +8,10 @@
 - 📫 How to reach me **darshanpadia5@gmail.com**
 
 - 🤝🏻 Open to collaborate on **Open Source Projects**
-
-
+<!-- darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia -->
+<!-- darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia -->
+<!-- darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia -->
+<!-- darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia darshanpadia darshan padia -->
 
 <!-- - 📄 Know about my experiences [Darshan's Resume](https://drive.google.com/file/d/13_nqx8gtlT1iTiJOnp2msarcTmMG_QNK/view?usp=sharing)0 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan-padia&theme=chartreuse-dark&show_icons=true&locale=en" alt="darshan-padia" /></p>
