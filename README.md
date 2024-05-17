@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h3 align="center">A Passionate coder, Quick learner and a motivated individual eager to learn new things and apply skills in building innovative solutions.</h3> <br/>
+<h3 align="center">A Passionate coder, Quick learner and a Motivated individual eager to learn new things and apply skills in building innovative solutions.</h3> <br/>
 
 - 📝 I write articles on [https://medium.com/@darshanpadia5](https://medium.com/@darshanpadia5)
 
