@@ -3,7 +3,7 @@
 
 - 📝 I write articles on [https://medium.com/@darshanpadia5](https://medium.com/@darshanpadia5)
 
-- 💬 Ask me about **Web Development**
+<!--- 💬 Ask me about **Web Development** -->
 
 - 📫 How to reach me **darshanpadia5@gmail.com**
 
